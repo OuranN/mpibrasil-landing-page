@@ -709,7 +709,7 @@ input[type='checkbox'] {
 .header {
 	padding-top: 8rem;
 	padding-bottom: 7.75rem;
-	background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url('header-background.jpeg') left top no-repeat;
+	background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url('../images/header-background.jpeg') left top no-repeat;
 	background-size: cover;
 	text-align: center;
 	height: 100%;
@@ -1271,7 +1271,7 @@ input[type='checkbox'] {
 .basic-4 {
 	/*fn padding-top: 7.75rem;*/
 	padding-bottom: 8.125rem;
-	background: url('index_files/header-background.jpeg') left top no-repeat;
+	background: url('index_files/images/header-background.jpeg') left top no-repeat;
 	background-size: cover; 
 }
 
